@@ -1,2 +1,3 @@
 *.sc linguist-language=c
 *.warpk linguist-language=c
+*.wad linguist-language=Objective-C
